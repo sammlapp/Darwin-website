@@ -58,7 +58,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 29,
     "versionPublish": "4.10.10",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32.png",
     "noImageResize": "",
     "screenshot": "screenshot.png"
   },
@@ -66,7 +66,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Darwin",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
